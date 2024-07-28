@@ -7,7 +7,7 @@ A lightweight and easy-to-use form validation library for React.
 Install the library using npm:
 
 ```sh
-npm install react-form-validator
+npm install react-form-validator-mini
 
 ```
 
