@@ -179,6 +179,6 @@ export default MyForm;
 
 Feel free to contribute to the project by opening issues or submitting pull requests. We welcome all improvements and suggestions.
 
-## License
+<!-- ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. -->
