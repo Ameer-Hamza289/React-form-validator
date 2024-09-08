@@ -1,4 +1,4 @@
-# React Form Validator
+# React Form Validator mini
 
 A lightweight and easy-to-use form validation library for React.
 
